@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.carousel-item{
+    width: 100%;
+
+    height: 95vh;
+    
+}
+.form-control {
+    border-radius: 5px;
+}
+p{
+    color: crimson;
+
+}
+.img-fluid pb-3 {
+    width: 200px;
+    row-gap: 0.5rem;
+    margin: 10px;
+}
